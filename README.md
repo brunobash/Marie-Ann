@@ -1,7 +1,7 @@
 
 <p align="center">
 <a href="#" alt="#"></a>
-<a href="#"><img src="#" alt="License"></a>
+<a href="#"><img src="#" alt="Logo"></a>
 </p>
 
 ## Sobre o projeto
